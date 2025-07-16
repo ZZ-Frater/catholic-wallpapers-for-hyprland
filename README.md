@@ -10,4 +10,5 @@ I generated and edited these wallpapers using AI tools. I was aiming for an anim
 
 ### Status
 **Contributions are closed.**  
-This project is maintained solely by the author.
+This project is maintained solely by the author. Please do not submit pull requests.
+Others are welcome to fork or clone this repo.
